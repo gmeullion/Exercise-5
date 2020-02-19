@@ -3,7 +3,7 @@
   <head>
     <meta charset="UTF-8" />
     <link href="style.css" rel="stylesheet" />
-    <title>Voice of America</title>
+    <!--<title>Voice of America</title>-->
   </head>
   <body>
     <header>
@@ -96,8 +96,8 @@
       <li><a href="article.html">Americas</a></li>
     </ul>
 
-    <p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small></p>
-    </footer>
+    <!--<p><small>Voice of America Address: 330 Independence Avenue, S.W., Washington, D.C. 20237</small></p>
+    </footer>-->
 
 </body>
 </html>
